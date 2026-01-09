@@ -1,3 +1,3 @@
 # demo
 for practice purpose
-authore - vaishnavi shinde
+authore - vaishnavi prakash shinde
